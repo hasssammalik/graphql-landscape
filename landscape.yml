@@ -6,7 +6,7 @@ landscape:
         name: Spec
         items:
           - item:
-            name: GraphQL Spec
+            name: S&P Global
             homepage_url: 'https://graphql.org'
             project: foundationproject
             repo_url: 'https://github.com/graphql/graphql-spec'
