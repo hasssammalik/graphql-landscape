@@ -7,8 +7,8 @@ landscape:
         items:
           - item:
             name: S&P Global
-            homepage_url: 'https://graphql.org'
-            project: foundationproject
+            homepage_url: 'https://www.spglobal.com'
+            project: Global DevOps Initiative
             repo_url: 'https://github.com/graphql/graphql-spec'
             logo: graphql.svg
             crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
