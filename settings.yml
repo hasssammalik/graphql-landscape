@@ -1,7 +1,7 @@
 global:
   name: S&P Global DevOps Landscape
   short_name: S&P
-  repo: graphql/graphql-landscape
+  repo: hasssammalik/graphql-landscape
   website: 'https://landscape.graphql.org'
   short_domain: l.graphql.org
   company_url: 'https://graphql.org'
